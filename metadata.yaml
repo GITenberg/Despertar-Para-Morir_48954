@@ -1,4 +1,8 @@
 _repo: Despertar-Para-Morir_48954
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48954-h/images/cover.jpg
 creator:
   author:
     agent_name: Espina, Concha
@@ -13,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Concha_Espina
     - http://es.wikipedia.org/wiki/Concha_Espina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48954#Despertar-Para-Morir
 gutenberg_issued: '2015-05-14'
 gutenberg_type: Text
 identifiers:
